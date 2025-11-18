@@ -29,6 +29,6 @@ I like learning new tools when they make sense and keeping my work simple but ef
 ---
 
 ## 📬 Connect With Me
-- 📧 Email: [arslankhalid0799@gmail.com](mailto:arslankhalid0799@gmail.com)  
+- 📧 Email: [arslannkhalid.dev@gmail.com](mailto:arslannkhalid.dev@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/arslankhalid](https://www.linkedin.com/in/arslann-khalid)  
 - 🌐 Portfolio: [arslankhalid.dev](#) *(coming soon)*
