@@ -1,4 +1,4 @@
-# Hi, I'm [Arslan](https://arslan-khalid.vercel.app/)  →  https://arslan-khalid.vercel.app
+# Hi, I'm [Arslan](https://arslan-khalid.vercel.app/)
 
 I’m a web developer who enjoys building practical, reliable, and well-structured applications. Most of my work has been around **PHP, Laravel, Vue.js, and modern JavaScript frameworks**. 
 
