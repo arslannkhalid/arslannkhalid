@@ -1,8 +1,6 @@
-# Hi, I'm Arslan 
+# Hi, I'm [Arslan](https://arslan-khalid.vercel.app/)  →  https://arslan-khalid.vercel.app
 
-I’m a web developer who enjoys building practical, reliable, and well-structured applications.  
-Most of my work has been around **Laravel, Vue.js, and modern JavaScript frameworks**. 
-Currently, working with **Next.js and Node.js**.
+I’m a web developer who enjoys building practical, reliable, and well-structured applications. Most of my work has been around **PHP, Laravel, Vue.js, and modern JavaScript frameworks**. 
 
 I like learning new tools when they make sense and keeping my work simple but effective.  
 
@@ -18,13 +16,6 @@ I like learning new tools when they make sense and keeping my work simple but ef
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-
----
-
-## 📌 A Few Projects
-- **E-Commerce System** – Laravel + Vue.js + API integrations  
-- **Club Management (Kegelbuddy)** – Vue.js SPA + Real-time events & reports  
-- **Personal Portfolio** – Next.js + Tailwind CSS  
 
 ---
 
