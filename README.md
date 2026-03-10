@@ -31,4 +31,4 @@ I like learning new tools when they make sense and keeping my work simple but ef
 ## 📬 Connect With Me
 - 📧 Email: [arslannkhalid.dev@gmail.com](mailto:arslannkhalid.dev@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/arslann-khalid](https://www.linkedin.com/in/arslann-khalid)  
-- 🌐 Portfolio: [arslankhalid.dev](#) *(coming soon)*
+- 🌐 Portfolio: [arslan-khalid](https://arslan-khalid.vercel.app/)
